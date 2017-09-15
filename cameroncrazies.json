@@ -1,0 +1,101 @@
+{
+  "intents": [
+    {
+      "name": "AMAZON.CancelIntent",
+      "samples": []
+    },
+    {
+      "name": "AMAZON.HelpIntent",
+      "samples": []
+    },
+    {
+      "name": "AMAZON.StopIntent",
+      "samples": []
+    },
+    {
+      "name": "AMAZON.NoIntent",
+      "samples": []
+    },
+    {
+      "name": "AboutIntent",
+      "samples": [
+        "about"
+      ]
+    },
+    {
+      "name": "FactIntent",
+      "samples": [
+          "fact",
+          "give me a fact",
+          "can I have a fact",
+          "fun fact",
+          "fact of the day",
+          "tell me a fact"
+      ]
+    },
+    {
+      "name": "OffenseIntent",
+      "samples": [
+          "offense",
+          "We are on offense",
+          "chant",
+          "cheer",
+          "hype",
+          "let's go duke",
+          "here we go devils",
+          "go devils go",
+          "let's go duke",
+          "duke has the ball"
+      ]
+    },
+    {
+      "name": "DefenseIntent",
+      "samples": [
+          "defense",
+          "We are on defense",
+          "hex",
+          "oh",
+          "they have the ball"
+      ]
+    },
+    {
+      "name": "CoachKIntent",
+      "samples": [
+          "coach k",
+          "tell me about coach k",
+          "legend",
+          "goat",
+          "coach",
+          "Krzyzewski"
+      ]
+    },
+    {
+      "name": "UNCIntent",
+      "samples": [
+          "unc",
+          "carolina",
+          "gthc",
+          "go to hell carolina",
+          "eat shit",
+          "chapel hill",
+          "university of north carolina"
+      ]
+    },
+    {
+      "name": "NCStateIntent",
+      "samples": [
+        "nc state",
+        "state",
+        "ncsu",
+        "north carolina state"
+      ]
+    },
+    {
+      "name": "FoulOutIntent",
+      "samples": [
+        "foul out",
+        "fifth foul"
+      ]
+    }
+  ]
+}
