@@ -1,2 +1,2 @@
 # CameronCraziesSkill
-Alexa skill for duke basketball chants
+Basic Amazon Alexa skill for duke basketball chants. Includes images for Echo Show
